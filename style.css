@@ -12,7 +12,7 @@
 
 .aboutusbtn{
     position: relative;
-    top: 8vh;
+    top: 9vh;
     left: 7.2vw;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
@@ -21,12 +21,13 @@
     font-size: 16px;
     padding: 1vh 1.5vw;
     border: none;
+    outline: none;
+    box-shadow: none;
     cursor: pointer;
-    border-radius: 5px;
 }
 .participantsbtn{
     position: relative;
-    top: 8vh;
+    top: 9vh;
     left: 15vw;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
@@ -35,36 +36,39 @@
     font-size: 16px;
     padding: 1vh 3vw;
     border: none;
+    outline: none;
+    border-color: transparent;
     cursor: pointer;
-    border-radius: 5px;
 }
 .emailbtn{
     position: relative;
-    top: 8vh;
-    left: 60vw;
+    top: 9vh;
+    left: 59vw;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     background-color: transparent;
     color: transparent;
     font-size: 16px;
-    padding: 1vh 2.5vw;
+    padding: 1vh 4vw;
     border: none;
+    outline: none;
+    border-color: transparent;
     cursor: pointer;
-    border-radius: 5px;
 }
 .surveybtn{
     position: relative;
-    top: 8vh;
-    left: 110px;
+    top: 9vh;
+    left: 62vw;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     background-color: transparent;
     color: transparent;
     font-size: 16px;
-    padding: 12px 45px;
+    padding: 1vh 4vw;
     border: none;
+    outline: none;
+    border-color: transparent;
     cursor: pointer;
-    border-radius: 5px;
 }
 
 #aboutus{
