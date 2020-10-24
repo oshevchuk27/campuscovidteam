@@ -81,8 +81,8 @@
     height: 680px;
     background-size: 100%;
 }
-#register{
-    background: url(background/4.png) no-repeat center;
+#p{
+    background: url(background/part.png) no-repeat top;
     height: 650px;
     background-size: 100%;
 }
