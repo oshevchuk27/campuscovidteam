@@ -86,4 +86,8 @@
     height: 650px;
     background-size: 100%;
 }
-
+#aboutus{
+    background: url(background/friends.png) no-repeat top;
+    height: 1301px;
+    background-size: 100%;
+}
