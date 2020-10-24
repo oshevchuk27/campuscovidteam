@@ -91,3 +91,42 @@
     height: 1301px;
     background-size: 100%;
 }
+
+.logbtn{
+    position: relative;
+    top: 73vh;
+    left: 8vw;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: transparent;
+    color: transparent;
+    font-size: 16px;
+    padding: 2vh 12vw;
+    border: none;
+    outline: none;
+    border-color: transparent;
+    cursor: pointer;
+}
+
+.regbtn{
+    position: relative;
+    top: 87vh;
+    left: -20vw;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: transparent;
+    color: transparent;
+    font-size: 16px;
+    padding: 2vh 12vw;
+    border: none;
+    outline: none;
+    border-color: transparent;
+    cursor: pointer;
+}
+
+#login{
+    margin-top: 10px;
+    background: url(background/3.png) no-repeat top;
+    height: 1301px;
+    background-size: 100%;
+}
