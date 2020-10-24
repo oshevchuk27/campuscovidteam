@@ -71,63 +71,19 @@
     cursor: pointer;
 }
 
-#aboutus{
-    background: url(background/aboutus.png) no-repeat center fixed;
-    height: 650px;
+#survey{
+    background: url(background/survey.png) no-repeat top;
+    height: 2100px;
     background-size: 100%;
 }
 #login{
-    background: url(background/3.png) no-repeat center fixed;
+    background: url(background/3.png) no-repeat center;
     height: 650px;
     background-size: 100%;
 }
 #register{
-    background: url(background/4.png) no-repeat center fixed;
+    background: url(background/4.png) no-repeat center;
     height: 650px;
     background-size: 100%;
 }
-#suggested{
-    background: url(background/5.png) no-repeat center fixed;
-    height: 650px;
-    background-size: 100%;
-}
-#participants{
-    background: url(background/6.png) no-repeat center fixed;
-    height: 650px;
-    background-size: 100%;
-}
-#profile{
-    background: url(background/7.png) no-repeat center fixed;
-    height: 650px;
-    background-size: 100%;
-}
-#friends{
-    background: url(background/8.png) no-repeat center fixed;
-    height: 650px;
-    background-size: 100%;
-}
-#email{
-    background: url(background/9.png) no-repeat center fixed;
-    height: 650px;
-    background-size: 100%;
-}
-#survey{
-    background: url(background/10.png) no-repeat center fixed;
-    height: 650px;
-    background-size: 100%;
-}
-#survey1{
-    background: url(background/11.png) no-repeat center fixed;
-    height: 650px;
-    background-size: 100%;
-}
-#survey2{
-    background: url(background/12.png) no-repeat center fixed;
-    height: 650px;
-    background-size: 100%;
-}
-#history{
-    background: url(background/13.png) no-repeat center fixed;
-    height: 650px;
-    background-size: 100%;
-}
+
