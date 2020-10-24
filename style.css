@@ -73,12 +73,12 @@
 
 #survey{
     background: url(background/survey.png) no-repeat top;
-    height: 2100px;
+    height: 2300px;
     background-size: 100%;
 }
-#login{
-    background: url(background/3.png) no-repeat center;
-    height: 650px;
+#email{
+    background: url(background/9.png) no-repeat top;
+    height: 680px;
     background-size: 100%;
 }
 #register{
