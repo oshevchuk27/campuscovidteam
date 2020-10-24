@@ -2,12 +2,21 @@
     font-family: 'Montserrat';
     box-sizing: border-box;
     color:black;
+
 }
 
 #home{
     background: url(background/home.png) no-repeat top;
-    height: 2000px;
+    height: 1400px;
     background-size: 100%;
+    scroll-behavior: smooth;
+}
+
+#register{
+    background: url(background/home.png) no-repeat bottom;
+    height: 650px;
+    background-size: 100%;
+    scroll-behavior: smooth;
 }
 
 .aboutusbtn{
