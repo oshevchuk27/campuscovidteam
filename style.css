@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     font-family: 'Montserrat';
     box-sizing: border-box;
@@ -145,3 +146,199 @@
     height: 670px;
     background-size: 100%;
 }
+=======
+* {
+    font-family: 'Montserrat';
+    box-sizing: border-box;
+    color:black;
+
+}
+
+#home{
+    background: url(background/home.png) no-repeat top;
+    height: 1400px;
+    background-size: 100%;
+    scroll-behavior: smooth;
+}
+
+#register{
+    background: url(background/home.png) no-repeat bottom;
+    height: 650px;
+    background-size: 100%;
+    scroll-behavior: smooth;
+}
+
+.aboutusbtn{
+    position: relative;
+    top: 9vh;
+    left: 7.2vw;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: transparent;
+    color: transparent;
+    font-size: 16px;
+    padding: 1vh 1.5vw;
+    border: none;
+    outline: none;
+    box-shadow: none;
+    cursor: pointer;
+}
+.participantsbtn{
+    position: relative;
+    top: 9vh;
+    left: 15vw;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: transparent;
+    color: transparent;
+    font-size: 16px;
+    padding: 1vh 3vw;
+    border: none;
+    outline: none;
+    border-color: transparent;
+    cursor: pointer;
+}
+.emailbtn{
+    position: relative;
+    top: 9vh;
+    left: 59vw;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: transparent;
+    color: transparent;
+    font-size: 16px;
+    padding: 1vh 4vw;
+    border: none;
+    outline: none;
+    border-color: transparent;
+    cursor: pointer;
+}
+.surveybtn{
+    position: relative;
+    top: 9vh;
+    left: 62vw;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: transparent;
+    color: transparent;
+    font-size: 16px;
+    padding: 1vh 4vw;
+    border: none;
+    outline: none;
+    border-color: transparent;
+    cursor: pointer;
+}
+
+#survey{
+    background: url(background/survey.png) no-repeat top;
+    height: 2300px;
+    background-size: 100%;
+}
+#email{
+    background: url(background/9.png) no-repeat top;
+    height: 680px;
+    background-size: 100%;
+}
+#p{
+    background: url(background/part.png) no-repeat top;
+    height: 650px;
+    background-size: 100%;
+}
+#aboutus{
+    background: url(background/friends.png) no-repeat top;
+    height: 1301px;
+    background-size: 100%;
+}
+
+.logbtn{
+    position: relative;
+    top: 73vh;
+    left: 8vw;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: transparent;
+    color: transparent;
+    font-size: 16px;
+    padding: 2vh 12vw;
+    border: none;
+    outline: none;
+    border-color: transparent;
+    cursor: pointer;
+}
+
+.regbtn{
+    position: relative;
+    top: 87vh;
+    left: -20vw;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: transparent;
+    color: transparent;
+    font-size: 16px;
+    padding: 2vh 12vw;
+    border: none;
+    outline: none;
+    border-color: transparent;
+    cursor: pointer;
+}
+
+#login{
+    margin-top: 10px;
+    background: url(background/3.png) no-repeat top;
+    height: 1301px;
+    background-size: 100%;
+}
+
+.name{
+    width: 28%;
+    padding: 12px 20px;
+    position: relative;
+    top: 7vh;
+    left: 66.5vw;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+.subject{    
+    width: 28%;
+    padding: 12px 20px;
+    position: relative;
+    top: 10vh;
+    left: 66.5vw;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+.message{    
+    width: 28%;
+    padding: 12px 20px;
+    position: relative;
+    top: 14vh;
+    left: 66vw;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+.submit{
+    width: 28%;
+    padding: 12px 20px;
+    position: relative;
+    top: 50vh;
+    left: 66.5vw;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+
+  }
+
+>>>>>>> a758b322312c6057345f7e89bd774c59c9206882
