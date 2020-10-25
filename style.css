@@ -178,3 +178,16 @@
     border-radius: 4px;
     box-sizing: border-box;
   }
+.submit{
+    width: 28%;
+    padding: 12px 20px;
+    position: relative;
+    top: 17vh;
+    left: 66vw;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+
+  }
