@@ -182,8 +182,8 @@
     width: 28%;
     padding: 12px 20px;
     position: relative;
-    top: 17vh;
-    left: 66vw;
+    top: 50vh;
+    left: 66.5vw;
     margin: 8px 0;
     display: inline-block;
     border: 1px solid #ccc;
@@ -191,3 +191,4 @@
     box-sizing: border-box;
 
   }
+
