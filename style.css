@@ -139,3 +139,42 @@
     height: 1301px;
     background-size: 100%;
 }
+
+.name{
+    width: 28%;
+    padding: 12px 20px;
+    position: relative;
+    top: 7vh;
+    left: 66.5vw;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+.subject{    
+    width: 28%;
+    padding: 12px 20px;
+    position: relative;
+    top: 10vh;
+    left: 66.5vw;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+.message{    
+    width: 28%;
+    padding: 12px 20px;
+    position: relative;
+    top: 14vh;
+    left: 66vw;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
