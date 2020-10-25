@@ -136,6 +136,12 @@
 #login{
     margin-top: 10px;
     background: url(background/3.png) no-repeat top;
-    height: 1301px;
+    height: 670px;
+    background-size: 100%;
+}
+#register{
+    margin-top: 10px;
+    background: url(background/4.png) no-repeat top;
+    height: 670px;
     background-size: 100%;
 }
