@@ -9,19 +9,41 @@
 </head>
 
 <body>
-
     <div id="email">
+    <div id="rightalign">
+
+        <script>
+            function setText7(){
+            document.getElementById('textBox').value = "Hey! I’ve noticed lately that you’ve been loosening up a bit in following the guidelines established to help keep our campus community safe. I know complying with these precautions can be hard and we all have moments of weakness, so don’t feel guilty! I just want to remind you that your actions really make a difference in whether we keep our campus safe or not. Complying with school rules and precautions can be annoying, but these simple steps will pay off for all of us with a safer and less chaotic semester! Remember to wear your mask and practice social distancing. You got this! \n\nSigned, Anonymous ";
+            document.getElementById('subject').value = "A Nudge from the Campus Covid Team";
+        }
+        function setText2(){
+            document.getElementById('textBox').value = "Hey! I’ve noticed that you’ve been doing a great job of following the guidelines established to keep our campus community safe. I know complying with these precautions can be hard, but you’ve been so good about it! Thank you for doing your part to keep our campus community safe. As a peer, I’m really grateful to you and proud of you for that. Keep up the good work! \n\nSigned,\nAnonymous";
+            document.getElementById('subject').value = "A Celebration from the Campus Covid Team";
+        }
+        function setText3(){
+            document.getElementById('textBox').value = "Hey! I know things have been tough for you lately. I just want to send you a virtual hug. You have a lot of people who love and support you and are wishing the best for you. Stay strong. I believe you will get through this! \n\nSigned,\nAnonymous\n";
+            document.getElementById('subject').value = "A Hug from the Campus Covid Team";
+        }
+        </script>
         <!-- PUT THINGS HERE-->
+        <input type="button" name="btnSeven" id="nudge" value="7" onclick="setText7()">
+        <input type="button" name="btnTwo" id="celly" value="2" onclick="setText2()">
+        <input type="button" name="btnTwo" id="hug" value="3" onclick="setText3()">
+
+        <!--
+        <button id="nudge">Button 1</button>
+        <button id="celly">Button 1</button>
+        <button id="hug">Button 1</button>-->
         <form action="welcome.php" method="post">
             <input type="text" class="name" name="name" placeholder="Choose a friend"><br>
-            <input type="text" class="subject" name="subject" placeholder="Friend's email"><br>
-            <input type="text" class="message" name="message" placeholder="Type a message..."><br>
+            <input type="text" class="subject" name="subject" id="subject" placeholder="Subject Line"><br>
+            <!--<input type="text" class="message" name="message" placeholder="Type a message..."><br>-->
+            <textarea name="textBox" id="textBox" value="" placeholder="Write something.." style="height:200px"></textarea>
             <input type="submit" class="submit" name="submit">
         </form>
-
-
+    </div>
     </div>
 
 </body>
-
 </html>
