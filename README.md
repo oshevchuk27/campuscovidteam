@@ -17,8 +17,8 @@ ____________
 We used Canva to create a prototype of the website. We then used HTML, CSS, JavaScript, and git to begin to implement the website. We used a name.com domain and connected it to our GitHub pages, rerouting the IP addresses to reconfigure the DNS server.
 ____________
 
-Site can be viewed at https://campuscovid.team/
-Link to project demo: https://devpost.com/software/campus-covid-team-vc853y
-Link to Canva slides used: https://www.canva.com/design/DAELe4Vuuw4/ZgMYu2B97z2Ay-vd5bshHg/view?utm_content=DAELe4Vuuw4&utm_campaign=designshare&utm_medium=link&utm_source=viewer
+<div> Site can be viewed at https://campuscovid.team/ </div>
+<div> Link to project demo: https://devpost.com/software/campus-covid-team-vc853y </div>
+<div> Link to Canva slides used: https://www.canva.com/design/DAELe4Vuuw4/ZgMYu2B97z2Ay-vd5bshHg/view?utm_content=DAELe4Vuuw4&utm_campaign=designshare&utm_medium=link&utm_source=viewer </div>
 
-
+<img width="931" alt="campuscovidteam" src="https://user-images.githubusercontent.com/60118869/104529115-ec415900-55d6-11eb-8b7a-e5766d0ec11b.png">
